@@ -233,6 +233,8 @@ nestjs-ogrenme-plani/
 
 ## Gün 10: TypeORM ve ConfigModule
 
+> 📄 **Uygulama notları ve çalıştırma:** [gun-10-typeorm-config.md](gun-10-typeorm-config.md)
+
 **Hedef:** Veritabanını NestJS'e bağlamak.
 
 **Öğren:**
